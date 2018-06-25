@@ -1,21 +1,13 @@
-# Ali Lozano
+# Titulo
 ## Subtitulo
-### Otro subtituto
 
-----------------
+**Negrita**
 
-
-> asdfasdf
+> nota
 > 
 
 ```
-asdfasdfasdf
+codigo
 ```
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-![Foto](https://assets.trome.pe/files/ec_article_multimedia_gallery/uploads/2018/04/17/5ad609d27c1a7.jpeg)
-
+![](https://i.imgur.com/3MkdHaH.png)
